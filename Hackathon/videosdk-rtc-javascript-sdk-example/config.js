@@ -1,0 +1,2 @@
+AUTH_URL = "";
+TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlrZXkiOiJhZjkyMjgzMS0yMzdiLTRjMmEtYjhlMi0xNjJiNzY2MjQzNmQiLCJwZXJtaXNzaW9ucyI6WyJhbGxvd19qb2luIl0sImlhdCI6MTY5ODI4NTYwOCwiZXhwIjoxNjk4MzcyMDA4fQ.Dq3ck0qMNtV6OZ7JRZBulyePeemZa6ydNBwHKioUkk0";

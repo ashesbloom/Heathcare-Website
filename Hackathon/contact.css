@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url("https://img.freepik.com/free-vector/clean-medical-background_53876-116875.jpg"); /* Add your image URL here */
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.container {
+    width: 80%;
+    display: flex;
+    background: rgba(255, 255, 255, 0.9); /* Light background with opacity */
+    border-radius: 10px;
+}
+.contact-form {
+    flex: 1;
+    padding: 20px;
+}
+.company-info {
+    flex: 1;
+    background-color: #f5f5f5; /* Light gray background */
+    padding: 20px;
+    margin-left: 5px;
+    color: #333; /* Dark text color */
+}
+.company-info h2 {
+    margin-top: 20px;
+}
+form {
+    display: flex;
+    flex-direction: column;
+}
+label {
+    font-weight: bold;
+    color: #333; /* Dark text color */
+}
+input, textarea {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+button {
+    background-color: #0077b6; /* Light professional blue color */
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #005b8f; /* Darker shade of blue on hover */
+}

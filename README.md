@@ -15,7 +15,11 @@
 
 6.To see the database go on browser and type localhost/phpmyadmin
 
+About programming structure:
+   We use HTML,CSS and JS as a frontend and PHP as a backend.
+for data management we used MySQL.
 
+Running all that on a local server
 
 
 
@@ -23,10 +27,10 @@ Structure of HeatlthVirtuCare Portal
 -->HOME PAGE:
         It gives a breif description about our website
         You can Register/Login yourself through this portal
-        You can also read about us and Contact me.
+        You can also read about us and Contact the organization.
 
 LOGIN/SIGNUP PAGE:
-          There you can put your Email Address,Name and Password..Next you have to choose  a If you are a Patient or Doctor.
+          There you can put your Email Address,Name and Password.. and register or login Next you have to choose  a If you are a Patient or Doctor.
           According to choosen field you will be directed to Doctor's Portal or Patients Portal
 
   DOCTOR'S PORTAL:
@@ -35,6 +39,10 @@ LOGIN/SIGNUP PAGE:
         
   PATIENT'S PORTAL:
         There Patient can connect with doctor through live video calling
+
+            for video calling we used an API of  'videoSDK' and listen through the authorised port and tokens via PHP
+
         Also can book the appointments
         There are some FAQs aslo
         
+

@@ -39,9 +39,7 @@ LOGIN/SIGNUP PAGE:
         
   PATIENT'S PORTAL:
         There Patient can connect with doctor through live video calling
-
-            for video calling we used an API of  'videoSDK' and listen through the authorised port and tokens via PHP
-
+for video calling we used an API of  'videoSDK' and listen through the authorised port and tokens via PHP 
         Also can book the appointments
         There are some FAQs aslo
         

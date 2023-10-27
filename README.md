@@ -5,7 +5,7 @@
                   (it is too big(148 MB) for github to be uploaded)
 
 2.Copy hackathon folder on 
-                    C:\xampp\htdocs\Hackathon
+                    C:\xampp\htdocs
 
 3.Then open file xampp-control to open the control of the server
 

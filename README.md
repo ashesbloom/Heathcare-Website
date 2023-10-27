@@ -1,19 +1,19 @@
 # HealthVirtucare-Website
       SEE THE PDF FOR REFERENCE
 1.Install xampp application in C drive(Primary Drive) which will act as a localhost server
-                  https://www.apachefriends.org/
+                 >> https://www.apachefriends.org/
                   (it is too big(148 MB) for github to be uploaded)
 
-2.Copy hackathon folder on 
+2.Copy hackathon folder on    
                     C:\xampp\htdocs
 
 3.Then open file xampp-control to open the control of the server
 
 4.In the application start aparche and mysql server in the action menu
 
-5.Then go to your browser and open (localhost/Hackathon/index.html)
+5.Then go to your browser and open >> localhost/Hackathon/index.html
 
-6.To see the database go on browser and type localhost/phpmyadmin
+6.To see the database go on browser and type >> localhost/phpmyadmin
 
 About programming structure:
    We use HTML,CSS and JS as a frontend and PHP as a backend.

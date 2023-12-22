@@ -2,6 +2,8 @@
 
 Hello, I'm going to guide you through the installation process for the HealthVirtuCare website on your local machine.
 
+<h5><i>Please refer to the provided PDF 'reference' for additional details and visual instructions.</i></h5>
+
 1. First, I need you to install the XAMPP application in your primary drive (usually C drive). This will serve as the localhost server for our website. You can download XAMPP [from here](https://www.apachefriends.org/).
 
 2. After installing XAMPP, copy the entire 'hackathon' folder to `C:\xampp\htdocs`.

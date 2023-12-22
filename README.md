@@ -1,46 +1,42 @@
-# HealthVirtucare-Website
-      CHECK OUT THE PDF FOR THE REFERENCE
-1.Install xampp application in C drive(Primary Drive) which will act as a localhost server
-                 >> https://www.apachefriends.org/
-                  (it is too big(148 MB) for GitHub to be uploaded)
+# HealthVirtucare-Website Installation Guide
 
-2. Copy the hackathon folder on    
-                    C:\xampp\htdocs
+Hello, I'm going to guide you through the installation process for the HealthVirtuCare website on your local machine.
 
-3. Then open file xampp-control to open the control of the server
+1. First, I need you to install the XAMPP application in your primary drive (usually C drive). This will serve as the localhost server for our website. You can download XAMPP [from here](https://www.apachefriends.org/).
 
-4. In the application start Apache and MySQL servers in the action menu
+2. After installing XAMPP, copy the entire 'hackathon' folder to `C:\xampp\htdocs`.
 
-5. Then go to your browser and open >> localhost/Hackathon/index.html
+3. Open the `xampp-control` file to access the server control panel.
 
-6. To see the database go on the browser and type >> localhost/phpmyadmin
+4. In the control panel, start both the Apache and MySQL servers from the action menu.
 
-About the programming structure:
-   We use HTML, CSS, and JS as a frontend and PHP as a backend.
-for data management we used MySQL.
+5. Now, open your web browser and go to `localhost/Hackathon/index.html`.
 
-Running all that on a local server
+6. To access the database, type `localhost/phpmyadmin` in your browser.
 
+## About the programming structure:
+We have used HTML, CSS, and JS for the frontend, while PHP serves as the backend. For data management, MySQL has been employed. All of this is running on a local server.
 
+<h2>Structure of a webpage</h2>
 
-Structure of HeatlthVirtuCare Portal
--->HOME PAGE:
-        It gives a brief description of our website
-        You can Register/Login yourself through this portal
-        You can also read about us and Contact the organization.
+## HOME PAGE:
+- This page provides a brief description of our website.
+- Users can register or log in through this portal.
+- Additional information about our organization is available.
 
-LOGIN/SIGNUP PAGE:
-          There you can enter your Email Address, Name, and Password.. and register or log in next you have to choose  If you are a Patient or a Doctor.
-          According to the chosen field, you will be directed to the Doctor's Portal or Patient Portal
+## LOGIN/SIGNUP PAGE:
+- Enter your Email Address, Name, and Password to register or log in.
+- Choose whether you are a Patient or a Doctor.
+- Based on your selection, you will be directed to the respective portal.
 
-  DOCTOR'S PORTAL:
-        Their doctor can Connect with their patients
-        Also, there is the full schedule of every doctor is provided
-        
-  PATIENT'S PORTAL:
-        Their Patient can connect with a doctor through live video calling
-for video calling we used an API of  'video SDK' and listened through the authorized port and tokens via PHP 
-        Also can book appointments
-        There are some FAQs also
-        
+## DOCTOR'S PORTAL:
+- Doctors can connect with their patients.
+- A full schedule of each doctor is provided.
 
+## PATIENT'S PORTAL:
+- Patients can connect with doctors through live video calling.
+  (We use the 'video SDK' API and handle authorization through PHP, using ports and tokens.)
+- Patients can also book appointments.
+- Frequently Asked Questions (FAQs) are available for reference.
+<hr>
+<h5><i>I hope this guide helps you set up and explore the HealthVirtuCare website on your local machine. If you have any questions or issues, feel free to reach out.</i></h5>

@@ -1,6 +1,6 @@
 # HealthVirtucare-Website Installation Guide
 
-Hello there 👋,
+Hello there 👋,<br>
 I'm going to guide you through the installation process for the HealthVirtuCare website on your local machine.
 
 <h5><i>Please refer to the provided PDF 'reference' for additional details and visual instructions.</i></h5>
